@@ -39,13 +39,13 @@ This app is perfect for both casual listeners and music enthusiasts alike.
 
 ### 🖍️ Wireframe  
  
-![Wireframe](path/to/your/wireframe/image.png)
+![Wireframe](wireframe.png)
 
 ---
 
 ### 🖌️ Final Design  
  
-![Final Design](path/to/your/design/image.png)
+![Final Design](figma.png)
 
 ---
 
