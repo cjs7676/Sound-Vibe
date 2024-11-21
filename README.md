@@ -38,13 +38,17 @@ This app is perfect for both casual listeners and music enthusiasts alike.
 ## 🎨 **Wireframe & Design**
 
 ### 🖍️ Wireframe  
+
+You can also view the design on Figma: [View on Figma](https://www.figma.com/design/nsGKtEl5kOWfbn51xrr3KZ/Wireframing?node-id=0-1&node-type=canvas&t=ZZOwcDFGMEVOsJyR-0)
  
 ![Wireframe](wireframe.png)
 
 ---
 
 ### 🖌️ Final Design  
- 
+
+You can also view the design on Figma: [View on Figma](https://www.figma.com/design/cQa5Dt7jBLlv66MpgmmYXs/Music-Player?node-id=0-1&node-type=canvas&t=L9d2sf8BwuILVjOt-0)
+
 ![Final Design](figma.png)
 
 ---
