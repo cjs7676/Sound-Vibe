@@ -51,19 +51,12 @@ This app is perfect for both casual listeners and music enthusiasts alike.
 
 ## 🛠 **Technologies Used**
 
-- **Frontend:** Figma for design, React Native for implementation ⚛️  
-- **Backend:** Node.js & Express 🚀  
-- **Database:** MongoDB 🍃  
-- **Tools:** Draw.io, Postman, and Jest 🛠  
-
+- **Frontend:** Figma for design ⚛️  
+  
 ---
 
 ## 🚀 **Getting Started**
 
-1. Install all prerequisites, including Node.js and MongoDB.
-2. Explore the Figma wireframe and design links for an in-depth view of the user interface.
+- Explore the Figma wireframe and design links for an in-depth view of the user interface.
 
----
 
-🎉 **Thank you for exploring Sound Vibe!** Let's make music more accessible and enjoyable. 🎵  
-Feel free to contribute or share your feedback. 💌  
